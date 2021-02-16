@@ -1,0 +1,128 @@
+body {
+	background-color: #f7f9fc;
+	font-family: Montserrat;
+  	color: #333333;
+  	text-align: center;
+  	font-weight: lighter;
+  	padding-left: 0px;
+  	margin: 0px;
+}
+
+h1 {
+    font-size: 52px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 1.5px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 0px;}
+
+a {
+	text-decoration: none;
+	color: #333333;
+	
+}
+
+a:hover {
+
+color: #261f84;
+
+}
+
+img {
+	padding: 40px 0px 0px;
+	max-width: 200px;
+	border-radius: 50%;
+
+}
+
+ul {
+	list-style: none;
+	padding-left: 0px;
+	display: inline;
+}
+
+.conteudo {
+	height: 550px;
+
+}
+
+.conteudo a {
+	color: white;
+}
+
+.conteudo a:hover {
+	color: black;
+}
+
+
+
+.digital {
+	background-color: #7e73ff;
+	padding: 20px;
+
+}
+
+.digital h3 {
+	color: white;
+	padding: 0px;
+	margin: 0px;
+}
+
+.digital ul {
+	color: white;
+	padding: 0px;
+	margin: 0px;
+}
+
+.redessociais {
+	background-color: #333333;
+	padding: 0px 0px 0px 10px;
+}
+
+.fab:hover {
+	color: #a9a9aa;
+}
+
+.redessociais ul li {
+	display: inline;
+	font-size: 30px;
+	color: white;
+	margin: 10px;
+}
+
+.redessociais h4 {
+	font-size: 10px;
+	color: white;
+	margin: 0px;
+	
+}
+
+
+.topo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    padding: 0px 0px;
+    color: #fff;
+    background-color: #7e73ff;
+}
+
+.fab {
+	color: white
+}
+
+.btn-hover{
+	min-height: 45px; 
+	width: 200px; 
+	border-radius: 30px; 
+	border: 0px; 
+	color: white; 
+	background-color: #7e73ff; 
+	font-family: Montserrat;}
+
+	.btn-hover: a{
+		color: white; 
+
+	}
